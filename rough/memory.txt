@@ -1,0 +1,29 @@
+RAM
+
+define function bana huwa hai uska name 
+printTeachers(teachers):
+showSchoolDetails(teachers):
+
+
+schoolName = "ABC School"
+numberOfStudents = 5
+numberOfTeachers = 3
+
+teachers = ["ravi","aashish","aman"]
+
+
+
+i=0
+
+
+
+
+
+
+
+
+
+Console :
+Enter the number of students: 5
+nter the number of teachers: 3
+Enter all the Teachers name :ravi

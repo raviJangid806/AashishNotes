@@ -1,0 +1,34 @@
+## Python Practice Questions
+
+### If Condition (7 questions)
+1. Write a program that checks if a number is positive, negative, or zero.
+2. Ask the user for their age and print whether they can vote (age >= 18).
+3. Given a number, print whether it is even or odd.
+4. Check if a year is a leap year using `if`, `elif`, and `else`.
+5. Ask for two numbers and print which one is larger, or if they are equal.
+6. Ask for a score (0–100) and print the grade:
+   - `A` for 90+
+   - `B` for 80–89
+   - `C` for 70–79
+   - `D` for 60–69
+   - `F` otherwise
+7. Ask the user for a password and confirm it by asking twice; print whether the passwords match.
+
+### For Loop (7 questions)
+8. Print all numbers from 1 to 20 using a `for` loop.
+9. Print all even numbers from 1 to 50.
+10. Given a list of names, print each name on a separate line.
+11. Calculate the sum of numbers from 1 to `n`, where `n` is user input.
+12. Given a list of integers, count how many are positive, negative, and zero.
+13. Ask the user for a word and print each character on a new line.
+14. Given a list of numbers, create a new list containing only numbers greater than 10.
+
+### List/Dict Comprehension (6 questions)
+15. Use a list comprehension to create a list of squares for numbers 1 to 10.
+16. Given a list of words, use a comprehension to make a new list of words longer than 4 letters.
+17. Use a dictionary comprehension to map numbers 1–5 to their cubes.
+18. Given a list of numbers, use a comprehension to keep only odd numbers.
+19. Given a string, use a comprehension to create a list of all vowels in that string.
+20. Use a comprehension to convert `["apple", "banana", "cherry"]` into `["APPLE", "BANANA", "CHERRY"]`.
+
+> Tip: Try writing the code for each question, then test it with different input values.
